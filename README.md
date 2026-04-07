@@ -1,0 +1,1 @@
+Sweet Bite, a food ordering website. The name says it all — delicious food, delivered fast. This is a fully frontend-built project with 10 complete HTML pages, covering everything from browsing a menu to placing an order. It's built using just three core technologies — HTML, CSS, and JavaScript — with no frameworks, no backend, just pure web fundamentals."
